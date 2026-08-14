@@ -1,7 +1,7 @@
 import calculator_app
 
 def test_add():
-    assert calculator_app.add(2, 3) == 6
+    assert calculator_app.add(2, 3) == 5
 
 def test_subtract():
     assert calculator_app.subtract(5, 3) == 2
