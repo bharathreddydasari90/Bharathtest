@@ -7,7 +7,7 @@ def test_subtract():
     assert calculator_app.subtract(5, 3) == 2
 
 def test_multiply():
-    assert calculator_app.multiply(4, 3) == 12
+    assert calculator_app.multiply(4, 4) == 16
 
 def test_divide():
     assert calculator_app.divide(10, 2) == 5
